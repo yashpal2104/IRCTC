@@ -1,0 +1,42 @@
+[
+  {
+    "train_id": "bacs",
+    "train_no": 12345,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "gotham": "13:50:00",
+      "india": "13:50:00",
+      "london": "13:50:00"
+    },
+    "stations": [
+      "gotham",
+      "india",
+      "london"
+    ]
+  },
+  {
+    "train_id": "bacs",
+    "train_no": 12345,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_times": {
+      "gotham": "13:50:00",
+      "india": "13:50:00",
+      "london": "13:50:00"
+    },
+    "stations": [
+      "gotham",
+      "india",
+      "london"
+    ]
+  }
+]
